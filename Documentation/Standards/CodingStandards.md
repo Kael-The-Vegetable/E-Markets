@@ -17,7 +17,7 @@
 
 ## Generic Coding Practices
 
-### :open_book: **$${\color{red}Generic Coding Practices}$$**
+### :open_book: $${\color{red}Red}$$
 
 > [!IMPORTANT]
 > Variables should always be informative of the purpose it provides.
