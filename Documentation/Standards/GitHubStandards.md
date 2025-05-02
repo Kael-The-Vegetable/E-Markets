@@ -63,7 +63,7 @@ Branches should be made for each unique idea. There might also be major branches
 1. Create sub-branches from the ideas
 1. Work on changes and commit regularly
 1. Push changes
-1. If a feature is done, test it thouroughly
+1. If a feature is done, test it thoroughly
 1. If it passes, open a pull request and merge into the parent branch
 
 ### <h3 style="color:#aea"> :bug: Bug Fixing
@@ -74,3 +74,30 @@ Branches should be made for each unique idea. There might also be major branches
 If a bug is found on the **development** branch I will make an *Issue* of it on the GitHub for future me when I am ready to fix bugs.
 
 I will also open the Issues to all that decides to recommend some new features or bugs.
+
+### <h3 style="color:#dda"> :file_folder: Folder Organization
+
+> The Unity project will be organized in the following way. *Assuming the root is Assets/*.
+
+> [!NOTE]
+> the ... refers to additional folders created based on assets made.
+> Each ... can have folders within them for extra organization.
+
+- Audio
+	- Clips
+		- ...
+- Animations
+	- ...
+- Sprites
+	- ...
+- Models
+	- ...
+- Materials
+	- Physics Materials
+	- Basic Materials
+- Prefabs
+	- ...
+- Scenes
+	- ...
+- Scripts
+	- ...
