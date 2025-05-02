@@ -40,13 +40,13 @@ public Weapon activeWeapon;
 > [!CAUTION]
 > Bad comments are worse than no comments. In addition, comments should not explain what the code is doing. It should explain the end goal and why if needed.
 
-Tool scripts should have `<summary>`'s so that each tool is best understood on **how** it should be used. Example below:
+Tool scripts should have `<summary>`s so that each tool is best understood on **how** it should be used. Example below:
 
 ```csharp
 /// <summary>
 /// Used to move the player in a specific localized direction
 /// </summary>
-/// <param name="filePath">Path to file, excluding master directory.</param>
+/// <param name="direction">Direction to move player in local space.</param>
 public void Move(Vector2 direction)
 {
 	throw new NotImplementedException();
