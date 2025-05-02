@@ -1,6 +1,6 @@
 # Coding Standards
 
-> When writing code for this project, try to follow the guidelines found below! These are to help you both make your code more legible as well as to make it more understandable to both others and future you!
+> When writing code for this project, try to follow the guidelines found below! These are to help me both make my code more legible as well as to make it more understandable to both others and future me!
 
 ---
 
