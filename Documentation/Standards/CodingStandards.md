@@ -7,7 +7,7 @@
 ## Table of Contents
 1. [Generic Coding Practices](#generic-coding-practices)
 	1. [Code Readability](#code-readability)
-	1. [Code Structure](#code-structure)
+	1. [Comments](#comments)
 1. [Code Structure](#code-structure)
 	1. [Class Structure](#class-structure)
 	1. [Naming Conventions](#naming-conventions)
