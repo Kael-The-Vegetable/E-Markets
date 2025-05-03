@@ -13,6 +13,7 @@
 1. [Workflow](#workflow)
 	1. [New Features](#new-features)
 	1. [Bug Fixing](#bug-fixing)
+	1. [Folder Organization](#folder-organization)
 
 
 ## Generic GitHub Standards
@@ -79,13 +80,12 @@ I will also open the Issues to all that decides to recommend some new features o
 
 > The Unity project will be organized in the following way. *Assuming the root is Assets/*.
 
-> [!NOTE]
+> [!TIP]
 > the ... refers to additional folders created based on assets made.
 > Each ... can have folders within them for extra organization.
 
 - Audio
-	- Clips
-		- ...
+	- ...
 - Animations
 	- ...
 - Sprites
@@ -93,11 +93,13 @@ I will also open the Issues to all that decides to recommend some new features o
 - Models
 	- ...
 - Materials
-	- Physics Materials
-	- Basic Materials
+	- ...
 - Prefabs
 	- ...
 - Scenes
 	- ...
 - Scripts
 	- ...
+
+> [!NOTE]
+> This will be updated as the project is advanced so this will grow in size.
