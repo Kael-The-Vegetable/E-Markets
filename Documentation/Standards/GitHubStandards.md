@@ -5,6 +5,10 @@
 ---
 
 ## Table of Contents
+
+> [!WARNING]
+> Due to how GitHub ignores HTML stylization, all third and fourth headers don't work in these links properly. Use the built in GitHub version to have it work.
+
 1. [Generic GitHub Standards](#generic-github-standards)
 	1. [Commits](#commits)
 	1. [Branch Structure](#branch-structure)
