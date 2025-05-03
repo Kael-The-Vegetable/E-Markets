@@ -5,10 +5,6 @@
 ---
 
 ## Table of Contents
-
-> [!WARNING]
-> Due to how GitHub ignores HTML stylization, all third and fourth headers don't work in these links properly. Use the built in GitHub version to have it work.
-
 1. [Generic Coding Practices](#generic-coding-practices)
 	1. [Code Readability](#code-readability)
 	1. [Code Structure](#code-structure)
