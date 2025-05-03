@@ -1,13 +1,17 @@
 # Coding Standards
 
-> When writing code for this project, try to follow the guidelines found below! These are to help you both make your code more legible as well as to make it more understandable to both others and future you!
+> When writing code for this project, try to follow the guidelines found below! These are to help me both make my code more legible as well as to make it more understandable to both others and future me!
 
 ---
 
 ## Table of Contents
+
+> [!WARNING]
+> Due to how GitHub ignores HTML stylization, all third and fourth headers don't work in these links properly. Use the built in GitHub version to have it work.
+
 1. [Generic Coding Practices](#generic-coding-practices)
 	1. [Code Readability](#code-readability)
-	1. [Code Structure](#code-structure)
+	1. [Comments](#comments)
 1. [Code Structure](#code-structure)
 	1. [Class Structure](#class-structure)
 	1. [Naming Conventions](#naming-conventions)
@@ -40,13 +44,13 @@ public Weapon activeWeapon;
 > [!CAUTION]
 > Bad comments are worse than no comments. In addition, comments should not explain what the code is doing. It should explain the end goal and why if needed.
 
-Tool scripts should have `<summary>`'s so that each tool is best understood on **how** it should be used. Example below:
+Tool scripts should have `<summary>`s so that each tool is best understood on **how** it should be used. Example below:
 
 ```csharp
 /// <summary>
 /// Used to move the player in a specific localized direction
 /// </summary>
-/// <param name="filePath">Path to file, excluding master directory.</param>
+/// <param name="direction">Direction to move player in local space.</param>
 public void Move(Vector2 direction)
 {
 	throw new NotImplementedException();
