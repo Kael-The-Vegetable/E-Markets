@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "ec4b6ba5800b9ef9122f7b3550f08a79ab8a2700"
+      "hash": "98b3642b5e20a29e8b745e70ec901aa7806c202c"
     },
     "com.unity.ai.navigation": {
       "version": "2.0.7",
